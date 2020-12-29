@@ -3,3 +3,7 @@
 .cproject
 matrix-*
 *.bin
+bin/*
+!bin/.gitignore
+.idea
+*.iml
